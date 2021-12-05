@@ -1,1 +1,1 @@
-var subscrbe = "Please subscibe to my channel";
+Please subscribe my channel
